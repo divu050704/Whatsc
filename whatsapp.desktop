@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Version=1.0
 Name=Whatsapp
-Exec=/home/divyanshu/Desktop/project/whatsapp.sh
+Exec=whatsapp.sh
 Type=Application
-Icon=/home/divyanshu/Downloads/whatsapp.svg
+Icon=whatsapp.svg
 Terminal=false
