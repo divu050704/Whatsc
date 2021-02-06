@@ -1,1 +1,1 @@
-sudo mv whatsapp.sh whatsapp.desktop /usr/share/applications
+gnome-terminal -- sudo mv whatsapp.sh whatsapp.desktop /usr/share/applications
