@@ -1,9 +1,8 @@
-
 [Desktop Entry]
 Encoding=UTF-8
 Version=1.0
 Name=Whatsapp
-Exec=/usr/share/.whatsc-main/whatsapp.sh
+Exec=/usr/.whatsc-main/whatsapp.sh
 Type=Application
-Icon=/usr/share/.whatsc-main/whatsapp.svg
+Icon=/usr/.whatsc-main/whats.png
 Terminal=false
